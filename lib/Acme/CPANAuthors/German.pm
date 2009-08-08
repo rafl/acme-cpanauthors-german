@@ -6,6 +6,7 @@ use warnings;
 
 use Acme::CPANAuthors::Register (
     CFAERBER => 'Claus Färber',
+    CORION   => 'Max Maischein',
     FLORA    => 'Florian "rafl" Ragwitz',
     HOLLI    => 'Markus Holzer',
     PHAYLON  => 'Robert \'phaylon\' Sedlacek',
