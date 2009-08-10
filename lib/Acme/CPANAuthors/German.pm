@@ -16,6 +16,7 @@ use Acme::CPANAuthors::Register (
     HORNBURG => 'Stefan Hornburg',
     HORSHACK => 'Richard Lippmann',
     JSTENZEL => 'Jochen Stenzel',
+    MDOM     => 'Mario Domgörgen',
     MEMOWE   => 'Mirko Westermeier',
     MLEHMANN => 'Marc Lehmann',
     PHAYLON  => 'Robert \'phaylon\' Sedlacek',
