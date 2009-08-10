@@ -5,18 +5,33 @@ use strict;
 use warnings;
 
 use Acme::CPANAuthors::Register (
+    AGROLMS  => 'Achim Grolms',
+    ANNO     => 'Anno Siegel',
     CFAERBER => 'Claus Färber',
     CORION   => 'Max Maischein',
+    FANY     => 'Martin H. Sluka',
     FLORA    => 'Florian "rafl" Ragwitz',
+    GRICHTER => 'Gerald Richter',
     HOLLI    => 'Markus Holzer',
+    HORNBURG => 'Stefan Hornburg',
+    HORSHACK => 'Richard Lippmann',
+    JSTENZEL => 'Jochen Stenzel',
+    MEMOWE   => 'Mirko Westermeier',
+    MLEHMANN => 'Marc Lehmann',
     PHAYLON  => 'Robert \'phaylon\' Sedlacek',
+    PLU      => 'Johannes Plunien',
     RENEEB   => 'Renee Baecker',
     SCHWIGON => 'Steffen "renormalist" Schwigon',
     SMUELLER => 'Steffen Müller',
     SRI      => 'Sebastian Riedel',
+    STEFFENW => 'Steffen Winkler',
+    SULLR    => 'Steffen Ullrich',
     TINITA   => 'Tina Müller',
     TSCH     => 'Torsten Schönfeld',
+    ULPFR    => 'Ulrich Pfeifer',
+    UVOELKER => 'Uwe Voelker',
     WILLERT  => 'Sebastian Willert',
+    WKI      => 'Wolfgang Kinkeldei',
 );
 
 =head2 SYNOPSIS
